@@ -12,11 +12,11 @@ body{
     padding: 30px;
     border-radius: 15px;
     text-align: center;
-    border: 2px solid rgb(246, 0, 0);
+    border: 2px solid rgb(0, 25, 246);
 }
 
 .banner {
-    background-color: #EF3829; 
+    background-color: #298fef; 
     display: flex;
     justify-content: space-between; 
     align-items: center;
@@ -55,7 +55,7 @@ body{
     justify-content: center;
     gap: 20px;
     margin-top: 20px;
-       background-color: #EF3829; 
+       background-color: #298fef; 
 }
 
 
@@ -97,7 +97,7 @@ select {
   width: 100%;
   padding: 10px;
   margin-bottom: 20px;
-  border: 1px solid #d11111;
+  border: 1px solid #1144d1;
   border-radius: 4px;
   box-sizing: border-box;
   font-size: 14px;
@@ -106,7 +106,7 @@ select {
 
 input:focus, 
 select:focus {
-  border-color: #e40404;
+  border-color: #046de4;
   outline: none;
   background-color: #cdead4;
 }
